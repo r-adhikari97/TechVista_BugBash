@@ -18,6 +18,7 @@ a/**
  */
 
 /* CSS Resets */ 
+
 ul,p {
   margin: 0;
   padding: 0;
@@ -42,11 +43,11 @@ a:focus {
 
 /* Header & Nav */
 body {
-  overflow-x: hidden;
+ 
 }
 .tm-header {
   background: #400361;
-  height: 80px;
+  height: 120px;
   width: 100vw;
   position: fixed;
   top: 0;
@@ -152,14 +153,14 @@ body {
   color: #fcdd44;
 }
 .tm-banner-link {
-  background: rgba(252, 221, 68, 0.39) none repeat scroll 0% 0%;
+  background: rgba(252, 221, 68, 0.39) none  0% 0%;
   border: 1px solid #d2b731;
   color: #fff;
   font-weight: 600;
   display: inline-block;
   padding: 18px 40px;
   margin-top: 30px;
-  transition: all 0.3s ease;
+  
   border-radius: 30px;
 }
 .tm-banner-link:hover,

@@ -18,6 +18,7 @@
 
 body {
   font-family: 'Titillium Web', sans-serif;
+ 
   
 }
 #logo{
@@ -81,11 +82,12 @@ body {
 .landing-page .content .text-cont .btn-discover {
   min-width: 160px;
   margin-right: 5px;
+  border-color: black;
   color: #FFF;
   background-color: var(--first-clr);
 }
 .landing-page .content .text-cont .btn-discover:hover {
-  border-color: var(--first-clr);
+  
   background-color: transparent;
   color: var(--first-clr);
 }
@@ -93,11 +95,7 @@ body {
   color: var(--first-clr);
   border-radius: 50%;
 }
-.landing-page .content .text-cont .btn-play:hover {
-  border-color: var(--first-clr);
-  background-color: var(--first-clr);
-  color: #FFF;
-}
+
 
 .landing-page .content .img-cont {
   width: 35%;
