@@ -22,3 +22,14 @@
 .section-contact h5 {
   margin-bottom: 30px;
 }
+#boxx{
+  width: 70px;
+  height: 65px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white;
+  font-size: 80px;
+  text-align: center;
+}

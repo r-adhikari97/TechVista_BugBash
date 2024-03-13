@@ -1,0 +1,12 @@
+/************Giving Index to  **************/
+#boxx{
+    width: 50px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
